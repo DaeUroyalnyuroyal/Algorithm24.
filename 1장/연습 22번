@@ -1,4 +1,0 @@
-a = input("9 24: ")
-stack=list(a)
-while stack:
-    print(stack.pop(), end='')
